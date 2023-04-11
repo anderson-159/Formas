@@ -36,6 +36,7 @@ public class Forma extends Geometria{
         this.ladob = ladob;
         this.base = base;
         this.alt = alt;
+
     }
     public float getBase() {
         return base;
